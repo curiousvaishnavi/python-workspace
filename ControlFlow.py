@@ -1,6 +1,6 @@
 #1) if-else statement
 
-# age = int(input("Enter your age :-"))
+age = int(input("Enter your age :-"))
 
 if age>=18:
     print("You can vote!")
@@ -27,3 +27,14 @@ num = range(5,51,5)
 
 for i in num:
     print(i)
+
+#5) while loop
+
+a = 10
+while a>=0:
+    print(a)
+    a-=1
+
+
+
+
